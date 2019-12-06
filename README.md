@@ -43,7 +43,7 @@ I altered the `production` to `dev` in the start script of package.json bc I had
 
 ## The idea behind the example
 
-*A version of [Next's example/custom-server-express](https://github.com/zeit/next.js/tree/master/examples/custom-server-express) revised to [deploy to IBM Cloud](https://github.com/nimicent/ibmcloud-nextjs).*
+*A version of [Next's example/custom-server-express](https://github.com/zeit/next.js/tree/master/examples/custom-server-express) revised to [deploy to IBM Cloud](https://github.com/nimicent/ibmcloud-nextjs-custom-server-express).*
 
 ## The idea behind the example
 
