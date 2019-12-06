@@ -13,7 +13,9 @@
 
 Change the name and host to what you want them to be.
 
-![the manifest.yml](https://i.imgur.com/VvgICrj.png)
+<p align="center">
+  <img src="https://i.imgur.com/VvgICrj.png">
+</p>
 
 Go into root directory, make sure you have permissions for everything.
 
