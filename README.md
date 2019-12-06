@@ -11,11 +11,14 @@
 
 * To minimize number of specifications per deploy you can use an application manifest to deploy to IBM Cloud using [manifest.yml](https://i.imgur.com/OrllgDr.png) 
 
-Change the name and host to what you want them to be.
 
 <p align="center">
+
+Change the name and host to what you want them to be.
+
   <img src="https://i.imgur.com/VvgICrj.png">
-</p>
+  
+
 
 Go into root directory, make sure you have permissions for everything.
 
@@ -30,8 +33,9 @@ Watch deployment logs.
 
 You should see ... 
 
-<p align="center">
+
   <img src="https://i.imgur.com/LUCWCwO.png">
+  
 </p>
 
 And that is it. You have Next.js example app on IBM Cloud. 🦑
