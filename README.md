@@ -2,8 +2,6 @@
 
 # Next.js w/ Custom Express Server example for IBM Cloud
 
-## How to use
-
 * First you need  an account on [IBM Cloud](https://cloud.ibm.com/)
 
 
