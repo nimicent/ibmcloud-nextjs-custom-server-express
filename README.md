@@ -9,11 +9,10 @@
 
 * Install [IBM Cloud CLI](https://github.com/IBM-Cloud/ibm-cloud-cli-release) and restart terminal, type `ibmcloud` to check
 
-* To minimize number of specifications per deploy you can use an application manifest to deploy to IBM Cloud using [manifest.yml](https://i.imgur.com/OrllgDr.png) 
+* To minimize number of specifications per deploy you can use an application manifest to deploy to IBM Cloud using [manifest.yml](https://i.imgur.com/OrllgDr.png). Change the name and host to what you want them to be.
 
 
 <p align="center">
-Change the name and host to what you want them to be.
   <img src="https://i.imgur.com/VvgICrj.png">
 </p>
 
