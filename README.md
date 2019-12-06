@@ -29,7 +29,11 @@ ibmcloud app push
 Watch deployment logs.
 
 You should see ... 
-![console shows that app has started on IBM Cloud](https://i.imgur.com/LUCWCwO.png)
+
+<p align="center">
+  <img src="https://i.imgur.com/LUCWCwO.png">
+</p>
+
 And that is it. You have Next.js example app on IBM Cloud. 🦑
 
 If you are doing more than this example demo and it fails
