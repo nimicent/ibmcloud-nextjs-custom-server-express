@@ -17,7 +17,6 @@ Change the name and host to what you want them to be.
   <img src="https://i.imgur.com/VvgICrj.png">
 </p>
 
-<p align="center">
 Go into root directory, make sure you have permissions for everything.
 
 ![using ibmcloud cli to push up app](https://i.imgur.com/dV0aBzU.png)
@@ -31,7 +30,7 @@ Watch deployment logs.
 
 You should see ... 
 
-
+<p align="center">
   <img src="https://i.imgur.com/LUCWCwO.png">
   
 </p>
