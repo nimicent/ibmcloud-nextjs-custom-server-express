@@ -13,7 +13,7 @@
 
 Change the name and host to what you want them to be.
 
-![the manifest.yml](https://i.imgur.com/OrllgDr.png)
+![the manifest.yml](https://i.imgur.com/VvgICrj.png)
 
 Go into root directory, make sure you have permissions for everything.
 
