@@ -14,10 +14,10 @@
   <img src="https://i.imgur.com/VvgICrj.png">
 </p>
 
-Go into root directory, make sure you have permissions for everything.
 
 
 <p align="center">
+  <h5>Go into root directory, make sure you have permissions for everything</h5>
   <img src="https://i.imgur.com/VfokmYM.png">
 </p>
 
