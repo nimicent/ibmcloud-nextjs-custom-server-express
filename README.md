@@ -16,7 +16,7 @@
 
 Go into root directory, make sure you have permissions for everything.
 
-![using ibmcloud cli to push up app](https://i.imgur.com/dV0aBzU.png)
+![using ibmcloud cli to push up app](https://i.imgur.com/VfokmYM.png)
 ``` bash
 npm i --save
 ibmcloud login --sso
