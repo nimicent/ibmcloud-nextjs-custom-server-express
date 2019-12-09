@@ -45,11 +45,10 @@ And watch it. I have been able to troubleshoot from them every time.
 NOTE
 I altered the `production` to `dev` in the start script of package.json bc I hadn't installed dotenv and was pursuing deployment of live instance solely.
 
+
 ## The idea behind the example
 
 *A version of [Next's example/custom-server-express](https://github.com/zeit/next.js/tree/master/examples/custom-server-express) revised to [deploy to IBM Cloud](https://github.com/nimicent/ibmcloud-nextjs-custom-server-express).*
-
-## The idea behind the example
 
 Most of the times the default Next server will be enough but sometimes you want to run your own server to customize routes or other kind of the app behavior. Next provides a [Custom server and routing](https://github.com/zeit/next.js#custom-server-and-routing) so you can customize as much as you want.
 
